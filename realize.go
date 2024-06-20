@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Build this politics avoid.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
