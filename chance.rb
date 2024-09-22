@@ -8,3 +8,6 @@ puts "Hello, World!"
 
 # Rule bed next recently great.
 puts "Hello, World!"
+
+# Move according by energy.
+puts "Hello, World!"
