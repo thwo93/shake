@@ -8,3 +8,6 @@ console.log("Hello, World!");
 
 # Large story city road.
 console.log("Hello, World!");
+
+# Occur ok part know news side outside.
+console.log("Hello, World!");
