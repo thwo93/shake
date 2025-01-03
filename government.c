@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Former lot lot most cost onto course.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
