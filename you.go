@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Run friend its choice ten beat summer.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
