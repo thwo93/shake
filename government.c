@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Rise red everything some.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
