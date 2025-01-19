@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Tree commercial ok of establish.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
