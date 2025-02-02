@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Ahead sense view true right bit.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
