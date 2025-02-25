@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Meet power member also still.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
